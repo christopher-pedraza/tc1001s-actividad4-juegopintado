@@ -1,14 +1,10 @@
-"""Paint, for drawing shapes.
+"""
+Actividad 4: Juego de Pintado 
 
-# Chris
-
-Exercises
-
-1. Add a color.
-2. Complete circle.
-3. Complete rectangle.
-4. Complete triangle.
-5. Add width parameter.
+Equipo 9:
+Christopher Gabriel Pedraza Pohlenz A01177767
+Kevin Susej Garza Aragón A00833985
+Eugenia Ruiz Velasco Olvera A01177887
 """
 
 from turtle import *

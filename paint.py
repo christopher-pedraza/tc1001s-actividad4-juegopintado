@@ -12,6 +12,7 @@ Exercises
 """
 
 from turtle import *
+import turtle as t
 
 from freegames import vector
 
@@ -57,6 +58,7 @@ def rectangle(start, end):
         left(90)
 
     end_fill()
+
 
 def triangle(start, end):
     """Draw square from start to end."""

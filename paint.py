@@ -45,7 +45,12 @@ def square(start, end):
 # Función para dibujar un círculo
 # Recibe: la pos inicial y final
 def circle(start, end):
-    pass  # TODO
+    t.up()
+    t.goto(start.x, start.y)
+    t.down()
+    t.begin_fill()
+    t.circle(end.x - start.x)
+    t.end_fill()
 
 
 # Función para dibujar un rectángulo

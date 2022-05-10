@@ -1,5 +1,7 @@
 """Paint, for drawing shapes.
 
+# Chris
+
 Exercises
 
 1. Add a color.
